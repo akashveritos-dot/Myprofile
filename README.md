@@ -21,12 +21,15 @@
 </p>
 
 ---
+---
 
-## 🎮 Fun Mini Project
+## 🎮 Snake Game (Live Demo)
+
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <iframe src="https://akashveritos-dot.github.io/Snake-Game/" width="700" height="500" frameborder="0" scrolling="no"></iframe>
 </p>
-<p align="center">🐍 Watch my GitHub contributions come alive as a snake game!</p>
+
+<p align="center">🐍 Auto-playing modern snake game — watch it move, eat, and grow in real time!</p>
 
 ---
 
