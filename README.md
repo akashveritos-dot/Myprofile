@@ -30,11 +30,25 @@
 
 ---
 
-## 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashveritos-dot&theme=algolia&row=2&column=4" />
+  <!-- Animated Trophy Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=akashveritos-dot&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
-<p align="center">🏅 Trophies for commits, stars, followers, and open-source impact.</p>
+
+<p align="center">
+  🏅 Recognized for commits, stars, followers, and open-source impact  
+</p>
+
+---
+
+### 🎖️ Skill & Contribution Bars  
+
+```text
+⭐ Stars Earned          ███████████░░░░░░  65%
+📦 Repositories Built    ██████████░░░░░░░  55%
+📝 Commits (Last Year)   ██████████████░░░  85%
+🌍 Open Source Impact    ████████░░░░░░░░░  40%
+👥 Followers & Network   ██████████░░░░░░░  60%
 
 ---
 
