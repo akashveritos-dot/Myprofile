@@ -7,7 +7,7 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 - 💻 I design **beautiful, responsive websites** with modern UI/UX.  
 - ⚡ Skilled in **frontend (React, HTML, CSS, JS)** & **backend (Node.js, PHP, MySQL)**.  
 - 🚀 Exploring **AI chatbot development** and **deep learning**.  
@@ -15,9 +15,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,python,figma" />
 </p>
 
 ---
@@ -30,38 +30,39 @@
 
 ---
 
+## 🏆 Achievements & Trophies
 <p align="center">
-  <!-- Animated Trophy Showcase -->
   <img src="https://github-profile-trophy.vercel.app/?username=akashveritos-dot&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
-
-<p align="center">
-  🏅 Recognized for commits, stars, followers, and open-source impact  
-</p>
+<p align="center">🏅 Trophies for commits, stars, followers, and open-source impact.</p>
 
 ---
 
-### 🎖️ Skill & Contribution Bars  
-
-```text
-⭐ Stars Earned          ███████████░░░░░░  65%
-📦 Repositories Built    ██████████░░░░░░░  55%
-📝 Commits (Last Year)   ██████████████░░░  85%
-🌍 Open Source Impact    ████████░░░░░░░░░  40%
-👥 Followers & Network   ██████████░░░░░░░  60%
-
----
-
-## 📊 GitHub Stats & Progress Bars
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashveritos-dot&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashveritos-dot&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashveritos-dot&layout=compact&theme=radical" />
 </p>
 
-#### 🚀 Skills Progress
-```text
-Frontend (React/HTML/CSS/JS) ██████████████░░ 90%
-Backend (Node.js/PHP/MySQL) ████████████░░░░ 80%
-Automation & Workflow       ██████████░░░░░░ 70%
-AI & Chatbot Development    ███████░░░░░░░░░ 50%
+---
+
+## 🚀 Animated Skill Progress
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashveritos-dot&repo=frontend-skills&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashveritos-dot&repo=backend-skills&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashveritos-dot&hide=issues&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://upwork.com/freelancers/your-upwork"><img src="https://skillicons.dev/icons?i=upwork" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
